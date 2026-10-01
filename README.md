@@ -2,7 +2,7 @@
 
 Premium, animated personal portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. Dark glassmorphism UI, live GitHub stats, and full SEO/OG support.
 
-🔗 **Live site:** [my-portfolio-darcy5.vercel.app](https://darcyportfolio.vercel.app/)
+🔗 **Live site:** [My portfolio](https://darcyportfolio.vercel.app/)
 
 ## Tech Stack
 
